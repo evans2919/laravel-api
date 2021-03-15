@@ -27,6 +27,10 @@ Route::middleware('auth:api')->group(function() {
     Route::get('/products/all', 'ProductsController@index')->name('Products-all');
 
     Route::get('/correo/basico', 'MailController@EnviarBasico')->name('correo-basico');
+
+    Route::get('/correo/con-datos', 'MailController@EnviarConDatos')->name('correo-con-datos');
+
+    Route::get('/correo/con-plantilla', 'MailController@EnviarPlantilla')->name('correo-con-plantilla');
     
 });
 
