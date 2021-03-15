@@ -543,7 +543,7 @@
 													</td>
 												</tr>
 												<tr>
-													<td class="containerPadding footerDesc" align="center" valign="middle" style="font-family:'Open Sans',Arial,Helvetica,sans-serif;color:#939393;font-size:13px;line-height:24px;font-weight:400;letter-spacing:0px;padding-bottom:5px;">© Covid Inc. | 800 Broadway, Suite 1500 | New York, NY 000123, USA.</td>
+													<td class="containerPadding footerDesc" align="center" valign="middle" style="font-family:'Open Sans',Arial,Helvetica,sans-serif;color:#939393;font-size:13px;line-height:24px;font-weight:400;letter-spacing:0px;padding-bottom:5px;">© Covid Inc. | 800 Broadway, Suite 1500 | NY, NY 000123, USA.</td>
 												</tr>
 												<tr>
 													<td class="containerPadding footerDesc" align="center" valign="middle" style="font-family:'Open Sans',Arial,Helvetica,sans-serif;color:#939393;font-size:13px;line-height:24px;font-weight:400;letter-spacing:0px;padding-bottom:20px;"><a href="https://example.com/" style="color:#E00734;text-decoration:underline">View Web Version</a> | <a href="https://example.com/" style="color:#E00734;text-decoration:underline">Email Preferences</a> | <a href="https://example.com/" style="color:#E00734;text-decoration:underline">Privacy Policy</a></td>
